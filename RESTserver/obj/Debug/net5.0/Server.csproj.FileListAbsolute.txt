@@ -1,0 +1,16 @@
+/Users/radhikabhong/RiaAssessment/RESTserver/bin/Debug/net5.0/Server
+/Users/radhikabhong/RiaAssessment/RESTserver/bin/Debug/net5.0/Server.deps.json
+/Users/radhikabhong/RiaAssessment/RESTserver/bin/Debug/net5.0/Server.runtimeconfig.json
+/Users/radhikabhong/RiaAssessment/RESTserver/bin/Debug/net5.0/Server.runtimeconfig.dev.json
+/Users/radhikabhong/RiaAssessment/RESTserver/bin/Debug/net5.0/Server.dll
+/Users/radhikabhong/RiaAssessment/RESTserver/bin/Debug/net5.0/Server.pdb
+/Users/radhikabhong/RiaAssessment/RESTserver/obj/Debug/net5.0/Server.csproj.AssemblyReference.cache
+/Users/radhikabhong/RiaAssessment/RESTserver/obj/Debug/net5.0/Server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/radhikabhong/RiaAssessment/RESTserver/obj/Debug/net5.0/Server.AssemblyInfoInputs.cache
+/Users/radhikabhong/RiaAssessment/RESTserver/obj/Debug/net5.0/Server.AssemblyInfo.cs
+/Users/radhikabhong/RiaAssessment/RESTserver/obj/Debug/net5.0/Server.csproj.CoreCompileInputs.cache
+/Users/radhikabhong/RiaAssessment/RESTserver/obj/Debug/net5.0/Server.dll
+/Users/radhikabhong/RiaAssessment/RESTserver/obj/Debug/net5.0/refint/Server.dll
+/Users/radhikabhong/RiaAssessment/RESTserver/obj/Debug/net5.0/Server.pdb
+/Users/radhikabhong/RiaAssessment/RESTserver/obj/Debug/net5.0/Server.genruntimeconfig.cache
+/Users/radhikabhong/RiaAssessment/RESTserver/obj/Debug/net5.0/ref/Server.dll
