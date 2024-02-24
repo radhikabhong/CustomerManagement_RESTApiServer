@@ -1,0 +1,1 @@
+This C# code implements a basic RESTful API server for managing customer data. It utilizes HTTPListener to handle POST and GET requests. Data is serialized to and deserialized from JSON format for communication. The server stores customer information in memory and in a local JSON file.
